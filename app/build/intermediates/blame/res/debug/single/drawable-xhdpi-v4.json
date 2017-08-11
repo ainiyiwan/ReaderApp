@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\paper.jpg",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\paper.jpg"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_cover.jpg",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\book_cover.jpg"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bookshelf_layer_center.jpg",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bookshelf_layer_center.jpg"
+    }
+]

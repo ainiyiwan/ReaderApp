@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\er.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\er.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_bookmark_outline_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark_outline_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fonts.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\fonts.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bf_footer.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bf_footer.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_pressed.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\book_pre.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\book_pre.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_error_outline_red.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_error_outline_red.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_library_zip.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_library_zip.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_share.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_share.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_library_books.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_library_books.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bookshelf_header_logo.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bookshelf_header_logo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\light_small.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\light_small.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page_whitelinedark.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\page_whitelinedark.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eq.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\eq.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_green.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_green.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page_redline.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\page_redline.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_large_pressed.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_large_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\light.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\light.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_refresh.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_refresh.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_redo.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_redo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_local_book.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_local_book.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bookshelf_shadow.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bookshelf_shadow.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_edit.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_edit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_night.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_night.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ev.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ev.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ep.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ep.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\es.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\es.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bookshelf_below_bg.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bookshelf_below_bg.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_library_folder.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_library_folder.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_undo.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_undo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_translate_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_translate_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_error_outline_black.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_error_outline_black.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_plus1.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_plus1.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toc.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\toc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_exit.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_exit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\selection.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\selection.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dark.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\dark.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_undo.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_undo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bookshelf_header_bg.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bookshelf_header_bg.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_info.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_info.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_vine_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_vine_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_bookmark.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_refresh.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_refresh.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_vine_grey.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_vine_grey.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_library_book.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_library_book.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ambilwarna_arrow_down.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-xhdpi\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_share.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_share.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\en.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\en.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_save.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_save.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bookshelf_below_shallow_bg.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bookshelf_below_shallow_bg.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_booknote.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_booknote.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_large_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_large_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ew.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ew.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ambilwarna_target.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-xhdpi\\ambilwarna_target.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eo.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\eo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\light_shadow.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\light_shadow.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_library_permission_denied.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_library_permission_denied.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share_pressed.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_net_book.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_net_book.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_translate_pressed.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_translate_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_grey.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_grey.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_list_plus.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_plus.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_edit.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_edit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_save.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_save.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_content_copy_pressed.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_copy_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_exit.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_exit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page_whiteline.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\page_whiteline.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ambilwarna_arrow_right.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-xhdpi\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\book_shadow.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\book_shadow.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dark_info.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_dark_info.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ambilwarna_cursor.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable-xhdpi\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_light_redo.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-xhdpi\\icon_light_redo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_content_copy_white.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_copy_white.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\reading__reading_themes_vine_yellow_shadow.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\reading__reading_themes_vine_yellow_shadow.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_bookmark_outline_pressed.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark_outline_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    }
+]

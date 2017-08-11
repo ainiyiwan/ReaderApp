@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher1.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

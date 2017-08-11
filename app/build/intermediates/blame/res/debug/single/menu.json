@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\ReaderApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\WorkDemo\\ReaderApp\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
